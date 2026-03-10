@@ -4,7 +4,7 @@ A comprehensive point-form reference for the **AI-102: Designing and Implementin
 
 ## 📄 Cheat Sheet
 
-👉 [**View the full cheat sheet here**]([cheatshee.md](https://github.com/kubakoz/azureAI102/blob/main/README.md))
+👉 [**View the full cheat sheet here**](https://github.com/kubakoz/azureAI102/blob/main/cheatshee.md)
 
 ## What's covered
 
