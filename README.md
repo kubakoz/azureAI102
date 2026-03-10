@@ -4,7 +4,7 @@ A comprehensive point-form reference for the **AI-102: Designing and Implementin
 
 ## 📄 Cheat Sheet
 
-👉 [**View the full cheat sheet here**](./cheatshee.md)
+👉 [**View the full cheat sheet here**](cheatshee.md)
 
 ## What's covered
 
